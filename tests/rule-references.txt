@@ -3509,3 +3509,15 @@ https://github.com/cloudflare/cloudflared/releases
 https://github.com/poweradminllc/PAExec
 https://www.deepinstinct.com/blog/nofilter-abusing-windows-filtering-platform-for-privilege-escalation
 https://ss64.com/mac/system_profiler.html
+https://linux.die.net/man/1/arecord
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a
+https://unit42.paloaltonetworks.com/cloaked-ursa-phishing/
+https://cloud.google.com/access-context-manager/docs/audit-logging
+https://www.publicnow.com/view/EB87DB49C654D9B63995FAD4C9DE3D3CC4F6C3ED?1671634841
+https://cloud.google.com/logging/docs/reference/audit/auditlog/rest/Shared.Types/AuditLog
+https://github.com/802-1x/Compliance/blob/2e53df8b6e89686a0b91116b3f42c8f717dca820/Ping%20Castle/Get-PingCastle-HTMLComplianceReport.ps1#L8
+https://unit42.paloaltonetworks.com/unsigned-dlls/?web_view=true
+https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
+https://twitter.com/MsftSecIntel/status/1737895710169628824
+https://gist.github.com/nasbench/9a1ba4bc7094ea1b47bc42bf172961af
+https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_22.12.2023.txt
