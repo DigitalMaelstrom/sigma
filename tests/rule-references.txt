@@ -3509,3 +3509,11 @@ https://github.com/cloudflare/cloudflared/releases
 https://github.com/poweradminllc/PAExec
 https://www.deepinstinct.com/blog/nofilter-abusing-windows-filtering-platform-for-privilege-escalation
 https://ss64.com/mac/system_profiler.html
+https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
+https://x.com/_st0pp3r_/status/1742203752361128162?s=20
+https://news.ycombinator.com/item?id=29504755
+https://github.com/EvotecIT/TheDashboard/blob/481a9ce8f82f2fd55fe65220ee6486bae6df0c9d/Examples/RunReports/PingCastle.ps1
+https://www.sans.org/cyber-security-summit/archives
+https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
+https://unit42.paloaltonetworks.com/cloaked-ursa-phishing/
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispbackgroundpage
